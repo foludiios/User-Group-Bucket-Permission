@@ -1,0 +1,5 @@
+# terraform.tfvars.example
+
+iam_user_name   = "user-1"
+group_name      = "group-1"
+s3_bucket_name  = "bucket-1"
